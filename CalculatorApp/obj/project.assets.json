@@ -739,11 +739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+      "projectUniqueName": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp\\CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+      "projectPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp\\CalculatorApp.csproj",
       "packagesPath": "C:\\Users\\Lukáš\\.nuget\\packages\\",
-      "outputPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp\\obj\\",
+      "outputPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

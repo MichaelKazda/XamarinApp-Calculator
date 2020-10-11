@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "odNX5vu9vuU9nxWt2Qi4xLQKoQRiFRaHtNeLzHkWtjkgTO3FCRHFA1w+Djh8fUSJ0dJViMmXBQ2x97M5ua72Vg==",
+  "dgSpecHash": "0FfNemBcr6/ToSYLYcwaXEQVlseBDvwuzw5E/cmU722isfcTqpGqtAIXWBEC1ueY3hIvksSn5xdbA7PE3UFShA==",
   "success": true,
-  "projectFilePath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+  "projectFilePath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp\\CalculatorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lukáš\\.nuget\\packages\\dynamicexpresso.core\\2.3.3\\dynamicexpresso.core.2.3.3.nupkg.sha512",
     "C:\\Users\\Lukáš\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

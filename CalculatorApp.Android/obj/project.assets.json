@@ -2044,11 +2044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp.Android\\CalculatorApp.Android.csproj",
+      "projectUniqueName": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp.Android\\CalculatorApp.Android.csproj",
       "projectName": "CalculatorApp.Android",
-      "projectPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp.Android\\CalculatorApp.Android.csproj",
+      "projectPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp.Android\\CalculatorApp.Android.csproj",
       "packagesPath": "C:\\Users\\Lukáš\\.nuget\\packages\\",
-      "outputPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp.Android\\obj\\",
+      "outputPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2069,8 +2069,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj": {
-              "projectPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj"
+            "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp\\CalculatorApp.csproj": {
+              "projectPath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\XamarinApp-Calculator\\CalculatorApp\\CalculatorApp.csproj"
             }
           }
         }
