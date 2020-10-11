@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "odNX5vu9vuU9nxWt2Qi4xLQKoQRiFRaHtNeLzHkWtjkgTO3FCRHFA1w+Djh8fUSJ0dJViMmXBQ2x97M5ua72Vg==",
+  "success": true,
+  "projectFilePath": "D:\\_SKOLA\\PCv\\Olzbut ERA\\Xamarin\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukáš\\.nuget\\packages\\dynamicexpresso.core\\2.3.3\\dynamicexpresso.core.2.3.3.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

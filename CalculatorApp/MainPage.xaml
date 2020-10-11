@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CalculatorApp"
+             x:Class="CalculatorApp.MainPage">
+
+    <ContentPage.BindingContext>
+        <local:MainPageViewModel/>
+    </ContentPage.BindingContext>
+
+    <Grid HorizontalOptions="Center"
+          VerticalOptions="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="0" Text="CALCULATOR" FontSize="55"  TextColor="white" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" BackgroundColor="#065464" />
+        <Frame Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="1" OutlineColor="LightGray">
+            <Label Text="{Binding Input}"/>
+        </Frame>
+
+        <Button Grid.Column="0" Grid.Row="2" Text="7" FontSize="25" Command="{Binding addNum}" CommandParameter="7"/>
+        <Button Grid.Column="1" Grid.Row="2" Text="8" FontSize="25" Command="{Binding addNum}" CommandParameter="8"/>
+        <Button Grid.Column="2" Grid.Row="2" Text="9" FontSize="25" Command="{Binding addNum}" CommandParameter="9"/>
+        <Button Grid.Column="3" Grid.Row="2" Text="/" FontSize="25" Command="{Binding addNum}" CommandParameter="/"/>
+
+        <Button Grid.Column="0" Grid.Row="3" Text="4" FontSize="25" Command="{Binding addNum}" CommandParameter="4"/>
+        <Button Grid.Column="1" Grid.Row="3" Text="5" FontSize="25" Command="{Binding addNum}" CommandParameter="5"/>
+        <Button Grid.Column="2" Grid.Row="3" Text="6" FontSize="25" Command="{Binding addNum}" CommandParameter="6"/>
+        <Button Grid.Column="3" Grid.Row="3" Text="*" FontSize="25" Command="{Binding addNum}" CommandParameter="*"/>
+
+        <Button Grid.Column="0" Grid.Row="4" Text="1" FontSize="25" Command="{Binding addNum}" CommandParameter="1"/>
+        <Button Grid.Column="1" Grid.Row="4" Text="2" FontSize="25" Command="{Binding addNum}" CommandParameter="2"/>
+        <Button Grid.Column="2" Grid.Row="4" Text="3" FontSize="25" Command="{Binding addNum}" CommandParameter="3"/>
+        <Button Grid.Column="3" Grid.Row="4" Text="-" FontSize="25" Command="{Binding addNum}" CommandParameter="-"/>
+
+        <Button Grid.Column="0" Grid.Row="5" Text="(" FontSize="25" Command="{Binding addNum}" CommandParameter="("/>
+        <Button Grid.Column="1" Grid.Row="5" Text="0" FontSize="25" Command="{Binding addNum}" CommandParameter="0"/>
+        <Button Grid.Column="2" Grid.Row="5" Text=")" FontSize="25" Command="{Binding addNum}" CommandParameter=")"/>
+        <Button Grid.Column="3" Grid.Row="5" Text="+" FontSize="25" Command="{Binding addNum}" CommandParameter="+"/>
+
+        <Button Grid.Column="0" Grid.Row="6" Text="C" FontSize="25" Command="{Binding del}" CommandParameter="all"/>
+        <Button Grid.Column="1" Grid.Row="6" Text="⌫" FontSize="25" Command="{Binding del}" CommandParameter="one"/>
+        <Button Grid.Column="2" Grid.Row="6" Grid.ColumnSpan="2" Text="=" FontSize="25" Command="{Binding result}"/>
+    </Grid>
+
+</ContentPage>

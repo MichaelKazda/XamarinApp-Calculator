@@ -1,0 +1,14 @@
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\CalculatorApp.deps.json
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\CalculatorApp.dll
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\ref\CalculatorApp.dll
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\CalculatorApp.pdb
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.csprojAssemblyReference.cache
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.AssemblyInfo.cs
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.dll
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\ref\CalculatorApp.dll
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.pdb
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\_SKOLA\PCv\Olzbut ERA\Xamarin\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\XamlC.stamp
